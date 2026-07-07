@@ -1,0 +1,15 @@
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 25 2017
+Start time: 19:37:37 on Jul 07,2026
+vlog -sv "+acc" "+cover" "+fcover" -l log_file_name.log ram_top.sv 
+-- Compiling module ram
+-- Compiling package ram_package
+** Warning: ** while parsing file included at ram_top.sv(2)
+** at ram_generator.sv(14): (vlog-2240) Treating stand-alone use of function 'randomize' as an implicit VOID cast.
+-- Compiling interface ram_inf
+-- Compiling module ram_top
+-- Importing package ram_package
+
+Top level modules:
+	ram_top
+End time: 19:37:37 on Jul 07,2026, Elapsed time: 0:00:00
+Errors: 0, Warnings: 1

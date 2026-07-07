@@ -1,0 +1,138 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/fetools/work_area/frontend/Batch_11/shreeshakumar/DV_workspace/projects/RAM/verification
+T_opt
+!s110 1783433312
+VlVASaAN7IXnA7f>;6A^:F0
+Z1 04 7 4 work ram_top fast 0
+=1-6805caf5892e-6a4d0860-bc44e-4acf
+o-quiet -auto_acc_if_foreign -work work +acc=npr
+Z2 tCvgOpt 0
+n@_opt
+Z3 OE;O;10.6c;65
+T_opt1
+!s110 1783432733
+V?o^H4<SAlhRakdj_OlV;61
+R1
+=1-6805caf5892e-6a4d061d-cd9fe-2697
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+R0
+vram
+Z4 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z5 !s110 1783433281
+!i10b 1
+!s100 4c1JLf?5EJT;Vk^zSCzcX1
+IhDJ<^Sbib7^U;M;aAeIhf2
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 !s105 ram_top_sv_unit
+S1
+Z8 d/fetools/work_area/frontend/Batch_11/Manan/verification/RAM_Verification/verification
+Z9 w1783432365
+8../design/ram.v
+F../design/ram.v
+L0 12
+Z10 OE;L;10.6c;65
+r1
+!s85 0
+31
+Z11 !s108 1783433281.000000
+Z12 !s107 ram_interface.sv|ram_test.sv|ram_environment.sv|ram_scoreboard.sv|ram_reference_model.sv|monitor.sv|ram_driver.sv|ram_generator.sv|ram_transaction.sv|defines.sv|ram_package.sv|../design/ram.v|ram_top.sv|
+Z13 !s90 -sv|+acc|+cover|+fcover|-l|log_file.log|ram_top.sv|
+!i113 0
+Z14 !s102 +cover
+Z15 o-sv +acc +cover +fcover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+Yram_inf
+R4
+R5
+!i10b 1
+!s100 5ZL8[BdWIz9P8UYYf6j1H3
+I^A08aQ]3JNgHS5RTZE8l42
+R6
+R7
+S1
+R8
+R9
+8ram_interface.sv
+Fram_interface.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R15
+R2
+Xram_package
+!s115 ram_inf
+R4
+R5
+!i10b 1
+!s100 aN7cX4VgG2mXl=eF?SDC`2
+III]29o9U4:C1zlzeXc?P60
+VII]29o9U4:C1zlzeXc?P60
+S1
+R8
+R9
+Fram_package.sv
+Fdefines.sv
+Fram_transaction.sv
+Fram_generator.sv
+Fram_driver.sv
+Fmonitor.sv
+Fram_reference_model.sv
+Fram_scoreboard.sv
+Fram_environment.sv
+Fram_test.sv
+L0 1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R15
+R2
+vram_top
+R4
+DXx4 work 11 ram_package 0 22 II]29o9U4:C1zlzeXc?P60
+R5
+!i10b 1
+!s100 J44<BiYXYGJ`aj6]^=EBb2
+I_:J99UOc9lo4el283TAhg1
+R6
+R7
+S1
+R8
+R9
+8ram_top.sv
+Fram_top.sv
+L0 5
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R15
+R2
