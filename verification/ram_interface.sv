@@ -1,8 +1,8 @@
 interface ram_inf(input bit clk,reset);
 
-		logic [7:0]	data_in, data_out;
-		logic		write_enb, read_enb;
-		logic [4:0]	address;
+		logic [7:0]data_in, data_out;
+		logic write_enb, read_enb;
+		logic [4:0]address;
 
 		clocking cb_driver@(posedge clk);
 			default input #0 output #0;
